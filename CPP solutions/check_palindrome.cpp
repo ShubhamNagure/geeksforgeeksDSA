@@ -12,8 +12,8 @@ int main()
         n=n/10;    
     }    
     if(temp==sum)    
-        cout<<"Number is Palindrome.";    
+        cout<<"Number is Palindrome.\n";    
     else    
-        cout<<"Number is not Palindrome.";   
+        cout<<"Number is not Palindrome.\n";   
     return 0;  
     }  
